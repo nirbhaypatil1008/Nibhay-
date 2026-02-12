@@ -1,4 +1,6 @@
 # Nibhay-
-This is my repositry
+This is first my repositry
 <br>
 Author-Nirbhay patil
+Co-Author Samarth
+

@@ -2,7 +2,7 @@
 
 ### Software Developer | Open Source Enthusiast | Lifelong Learner
 
-I'm passionate about building scalable applications, solving real-world problems, and continuously learning new technologies. I enjoy working across the software development lifecycle, from designing user-friendly interfaces to developing robust backend systems.
+I'm passionate about building scalable applications, solving real-world problems, and continuously learning new technologies. I enjoy working across the software development lifecycle, from designing user-friendly interfaces to developing robust backend systems. 
 
 ## 🚀 About Me
 

@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Nirbhay Patil]
 
 ### Software Developer | Open Source Enthusiast | Lifelong Learner
 
@@ -8,8 +8,6 @@ I'm passionate about building scalable applications, solving real-world problems
 
 - 💻 Passionate about Software Development
 - 🌱 Currently learning and exploring new technologies
-- 🔭 Working on personal and open-source projects
-- 🤝 Open to collaboration and knowledge sharing
 - 🎯 Focused on writing clean, maintainable, and efficient code
 - ⚡ Always curious about how things work under the hood
 
@@ -24,34 +22,16 @@ I'm passionate about building scalable applications, solving real-world problems
 
 ### Frontend
 - React
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
 
 ### Backend
 - Node.js
-- Express.js
-- FastAPI
 
 ### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Linux
-- VS Code
-
+.........
 ## 📈 What I'm Interested In
 
 - Full-Stack Development
 - Artificial Intelligence & Machine Learning
-- Cloud Computing
-- System Design
 - Open Source Contributions
 
 ## 🎯 Goals
@@ -63,10 +43,8 @@ I'm passionate about building scalable applications, solving real-world problems
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: Your LinkedIn Profile
-- Portfolio: Your Portfolio Website
-
----
+- GitHub:https://github.com/nirbhaypatil1008
+- LinkedIn: www.linkedin.com/in/nirbhay-patil-b821a430b
+- Portfolio:
 
 *"Code. Learn. Build. Repeat."*
